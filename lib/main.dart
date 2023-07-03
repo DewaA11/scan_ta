@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'app/routes/app_pages.dart';
 import 'app/widgets/splash.dart';
+import 'package:change_app_package_name/change_app_package_name.dart';
 import 'firebase_options.dart';
 
 final permissionC = Get.put(PermissionController(), permanent: true);
